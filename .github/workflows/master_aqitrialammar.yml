@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'AQITrialAmmar'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D85DBDCEA94B45E3858FDC53E196A510 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE8A226CAD204A16A3FCEB50737C7E48 }}
